@@ -8,7 +8,7 @@ package org.example;
 
 public class Cheese {
 
-    private int cheeseID; //Unique ID--will be used for cheese lookup
+    private int cheeseID; //Just realized I never used this
     private String milkType; //Pasteurized or raw
     private int organic; //0 is not organic, 1 is organic
     private double moisturePercent;
