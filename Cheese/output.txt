@@ -1,0 +1,10 @@
+Number of cheeses using pasteurized milk: 800
+Number of cheeses using raw milk: 115
+Number of organic cheeses with moisture > 41%: 53
+
+Cow cheeses: 743
+Goat cheeses: 214
+Ewe cheeses: 62
+Buffalo Cow cheeses: 2
+Animal with the most cheeses: Cow
+It was used in the production of 743 cheeses.
